@@ -175,6 +175,7 @@ window.$docsify = {
 
 > 注意：确保你的原始链接中包含镜像列表的第一个值，否则替换将不会生效。
 
+`data-mirrors="3.5,3.4,3.3"`    
 spring-boot 不同版本文档
 <div class="nav-links"  data-mirrors="3.5,3.4,3.3">
 
@@ -182,7 +183,7 @@ spring-boot 不同版本文档
 
 </div>
 
-
+`data-mirrors="releases.ubuntu.com/,mirrors.ustc.edu.cn/ubuntu-releases/,mirrors.163.com/ubuntu-releases/,mirrors.huaweicloud.com/ubuntu-releases/,mirrors.aliyun.com/ubuntu-releases/"`    
 Ubuntu LTS Releases 不同的镜像地址
 <div class="nav-links"  data-mirrors="releases.ubuntu.com/,mirrors.ustc.edu.cn/ubuntu-releases/,mirrors.163.com/ubuntu-releases/,mirrors.huaweicloud.com/ubuntu-releases/,mirrors.aliyun.com/ubuntu-releases/">
 
