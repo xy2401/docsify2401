@@ -107,10 +107,10 @@ window.$docsify = {
 
 <div class="nav-links">
 
-- [Vue.js](https://vuejs.org) : 渐进式 JavaScript 框架  ![](/icons3d/vuejs.org.png)
-- [React](https://react.dev) : 用于构建 Web 和原生交互界面的库  ![](/iconsFluffy/react.dev.png)
-- [Docsify](https://docsify.js.org) : 一个神奇的文档网站生成器  ![](/icons3d/docsify.js.org.png)
-- [TailwindCSS](https://tailwindcss.com) : 无需离开 HTML 即可快速构建网站  ![](/iconsFluffy/tailwindcss.com.png)
+- [Vue.js](https://vuejs.org) : 渐进式 JavaScript 框架  ![](icons3d/vuejs.org.png)
+- [React](https://react.dev) : 用于构建 Web 和原生交互界面的库  ![](iconsFluffy/react.dev.png)
+- [Docsify](https://docsify.js.org) : 一个神奇的文档网站生成器  ![](icons3d/docsify.js.org.png)
+- [TailwindCSS](https://tailwindcss.com) : 无需离开 HTML 即可快速构建网站  ![](iconsFluffy/tailwindcss.com.png)
 
 </div>
 
