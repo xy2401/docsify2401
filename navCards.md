@@ -103,7 +103,7 @@ window.$docsify = {
 
 ## 指定图片
 
-`- [Vue.js](https://vuejs.org) : 渐进式 JavaScript 框架  ![](/icons3d/vuejs.org.png)` 链接自定义具体的图片
+`- [Vue.js](https://vuejs.org) : 渐进式 JavaScript 框架  ![](icons3d/vuejs.org.png)` 链接自定义具体的图片
 
 <div class="nav-links">
 
